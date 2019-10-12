@@ -3,5 +3,5 @@ language: c
 compiler: gcc
 
 script:
-      - cmake ..
+      - cmake .
       - make
